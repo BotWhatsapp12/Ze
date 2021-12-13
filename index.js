@@ -620,7 +620,7 @@ for (let zeeonew of videonye){
 
 
 switch (command) 
-   case prefix+'menu': 
+   case 'menu': 
                 let pi = alpha.prepareMessageFromContent(from, {
            "listMessage": {
 						"title": "⌜ MENU RULS BOTZ⌟",
